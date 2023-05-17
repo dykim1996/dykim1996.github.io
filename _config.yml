@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 도전하는 개발자 김동영입니다
+title: 현대해상 손나은
 email: your-email@example.com
 description: 
   Write an awesome description for your new site here. You can edit this
@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # User settings
-username: 개발자 김동영
+username: 서유빈 너무 이뻐요
 user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
 user_title: Web Developer
 email: tkrlek23@gmail.com
